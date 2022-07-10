@@ -1,3 +1,7 @@
+https://docs.medusajs.com/
+
+OPEN SOURCE e-commerce headless commerce engine
+
 # Fixing Linux bus error
 sudo apt --fix-broken install or sudo kill
 
