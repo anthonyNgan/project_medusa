@@ -19,3 +19,12 @@ sudo apt --fix-broken install or sudo kill
 
 - yarn create medusa-app
 - more reaible to use yarn as npx had problems.
+
+# Errors
+no ENOENT delete cache and public then rebuild source
+
+# sqlite
+install extention find db connection in 
+
+# run servers in split terminal
+admin and backend with npm develop
