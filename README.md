@@ -22,9 +22,10 @@ sudo apt --fix-broken install or sudo kill
 
 # Errors
 no ENOENT delete cache and public then rebuild source
+seo folder cannot be found. DELETE CACHE folder and NODE_MODULE
 
 # sqlite
-install extention find db connection in 
+install extension sqlmanager find db connection 
 
 # run servers in split terminal
 admin and backend with npm develop
